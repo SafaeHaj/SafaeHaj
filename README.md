@@ -12,7 +12,8 @@ Welcome to my GitHub! I'm passionate about software development, with a focus on
 </div>
 
 ## 🚀 Projects
-
+- **LDC Competition:** In this edition we collaborated with the SAP+D, ENA Rabat and 1337 schools to create a self-sustainable smart residence. My task consisted of creating and managing the backend (in python using Flask) along with creating the necessary AI models to support the system.
+   
 - **Jobsteer:** A comprehensive web platform designed to streamline the job search process by connecting job seekers with potential employers. It features advanced filtering options, a personalized job recommendation system, and user-friendly dashboards for both candidates and recruiters.
 
 - **UM6P CS IntroDB Project 2:** A collaborative database project focused on implementing advanced database concepts, including relational schema design, SQL queries, data normalization, and performance optimization, demonstrating practical skills in database management systems.
