@@ -2,15 +2,6 @@
 
 Welcome to my GitHub! I'm passionate about software development, with a focus on creating efficient and well-structured systems. My projects span various domains, from algorithmic challenges to full-stack web development and version control systems.
 
-<div align="left">
-  <a href="https://github.com/SafaeHaj">
-    <img src="https://github-readme-stats.vercel.app/api?username=SafaeHaj&theme=tokyonight&show_icons=true" height=200 />
-  </a>
-  <a href="https://github.com/SafaeHaj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaeHaj&langs_count=5&theme=tokyonight" height=200 />
-  </a>
-</div>
-
 ## 🚀 Projects
 - **Adaptive Learning System:** With my partner Malak Kably, we researched and developped a comprehensive backend for the startup Ederest's adaptive learning system, following BKT and IRT models which adjust the learning material according to the user's progress.
 
