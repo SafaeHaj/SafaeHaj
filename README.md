@@ -1,10 +1,19 @@
-# Hi there!
+# Holaaa ✨✨
 
-I'm a final-year Computer Engineering student at **UM6P**, focused on **data engineering, distributed systems, and AI-driven data pipelines**.
+I'm a final-year Computer Engineering student at **UM6P College of Computing**, focused on **data engineering, distributed systems, and AI-driven data pipelines**.
 
 My recent work revolves around building systems that turn large, heterogeneous datasets into structured and usable information — from research-paper processing pipelines and knowledge graphs to distributed storage systems and predictive models.
 
 ## Featured Projects
+
+### Zkafka: A Kafka Clone
+An implementation of kafka as it was described in the [2011 research paper](https://pages.cs.wisc.edu/~akella/CS744/F17/838-CloudPapers/Kafka.pdf), using Java. This was primarily a learning project for me to get familiarized with the tool's internal structure, as well as a brush up on buffers and server communication channels management.
+
+- Structured the broker into **cluster coordination, partition logic, and disk storage** packages.
+- Implemented a **length-prefixed TCP protocol** using Java NIO `ByteBuffer` for request and response encoding.
+- Defined an **on-disk record format** with sequential offsets, CRC32C checksums, and segmented logs.
+- Built a **ZooKeeper client** for broker registration, controller election, topic assignments, and committed-offset tracking.
+- Created a **publish-and-fetch use case** with a simple JShell demo.
 
 ### Functional Ingredient Research & Analysis Platform
 AI-powered platform for extracting, structuring, and analyzing experimental data from scientific literature.
